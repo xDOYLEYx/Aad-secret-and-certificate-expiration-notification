@@ -39,4 +39,4 @@ jobs:
           app-name: 'd-ause-fun-ac-01'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC6D4D17990F4C48BDCA146608222301 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_989CC23D6ED349B4A9B825D4DBAD3926 }}
